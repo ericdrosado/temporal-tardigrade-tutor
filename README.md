@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🦠 Temporal Tardigrade Tutor
 
 An interactive, AI-driven Developer Advocate that guides you through building your first Temporal application. 
